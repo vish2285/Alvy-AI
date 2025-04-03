@@ -8,13 +8,13 @@ I created this project to combine voice tech, modern UI, and AI agents for a tru
 ## 🤓 Tech Stack (~~for da nerds~~)
 ### 🎨 Frontend Tech Stack
 [![Frontend Stack](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css,vercel)](https://skillicons.dev)
+
 ### 🔧 Backend Tech Stack
 [![Backend Stack](https://skillicons.dev/icons?i=nodejs,postgres,docker,aws)](https://skillicons.dev)
 
 ### 🚀 Deployment
 
 The project is currently deployed on Vercel. To deploy your own instance, head over to the Vercel dashboard and follow the instructions to deploy a new project from the GitHub repository.
-
 
 
 ### 📄 License
