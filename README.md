@@ -6,9 +6,9 @@ AIvy AI is an AI-powered voice education assistant built to help learners practi
 I created this project to combine voice tech, modern UI, and AI agents for a truly interactive learning experience.
 
 ## 🤓 Tech Stack (~~for da nerds~~)
-🎨 Frontend Tech Stack
+### 🎨 Frontend Tech Stack
 [![Frontend Stack](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css,vercel)](https://skillicons.dev)
-🔧 Backend Tech Stack
+### 🔧 Backend Tech Stack
 [![Backend Stack](https://skillicons.dev/icons?i=nodejs,postgres,docker,aws)](https://skillicons.dev)
 
 ### 🚀 Deployment
